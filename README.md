@@ -41,7 +41,8 @@ function invminecarts:cmd/unistall
 
 After that, all minecarts will be restored and you can now remove the datapack and resourcepack.
 
- [! WARNING] If you want to use it again you will first need to run:
+**Warning**
+If you want to use it again you will first need to run:
  ```mcfunction
  tag @e remove invminecarts.not_this_minecart
  ```
