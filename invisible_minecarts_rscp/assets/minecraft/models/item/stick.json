@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/stick"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 26209
+        },
+        "model": "invminecarts:minecart/normal"
+      }
+    ]
+  }
+  
