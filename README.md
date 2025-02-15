@@ -31,7 +31,7 @@ The rest of the minecarts will have their texture. This works with all types of 
 - Command block minecart
 - Spawner minecart
 
-## Unistall
+## Uninstall
 
 To revert the changes run:
 
