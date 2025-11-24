@@ -46,7 +46,7 @@ After that, all minecarts will be restored and you can now remove the datapack a
 > ```mcfunction
 > tag @e remove invminecarts.not_this_minecart
 > ```
-> This is because after unistalling it, the datapack will try again to modify all minecarts to make them invisible (because it is a tick function) so to ignore the minecarts it gives them a tag, so for the datapack to work again you need to remove it.
+> This is because after uninstalling it, the datapack will try again to modify all minecarts to make them invisible (because it is a tick function) so to ignore the minecarts it gives them a tag, so for the datapack to work again you need to remove it.
 
 ## Contribution
 
@@ -70,12 +70,18 @@ A: If you want sure, but it's not necessary.
 If you have found any bugs or have any suggestion, please create an issue [here](https://github.com/ElGeroIngles/invisible-minecarts-mc/issues).
 
 ## 🔗 Links
-[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EclipseStudiosMC)
-[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4pYjW9btNc)
-[![modrinth](https://img.shields.io/badge/modrinth-5AD770?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/eclipse-studios)
-[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EclipseStudiosMC)
-[![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/EclipseStudios447)
-[![CurseForge](https://img.shields.io/badge/Curseforge-0D0D0D?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/elgeroingles/projects)
+
+<div align="center"><center>
+
+[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_vector.svg)](https://www.youtube.com/@EclipseStudiosMC)
+[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/4pYjW9btNc)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/organization/eclipse-studios)
+[![github-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/github-plural_vector.svg)](https://github.com/Eclipse-Studios)
+[![patreon-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-plural_vector.svg)](https://www.patreon.com/EclipseStudios447)
+[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/members/elgeroingles/projects)
+[![planet_minecraft](https://gist.githubusercontent.com/ElGeroIngles/860767aa976892908afff9f2c4b9648f/raw/eda5e7344a38837c32e34a1c0f8a4de180d38d5c/planet_minecraft_cozy.svg)](https://www.planetminecraft.com/member/elgeroingles/)
+
+</center></div>
 
 ## License
 
